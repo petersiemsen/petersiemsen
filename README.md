@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @petersiemsen 
 - 🤓 I’m interested in DATA and lots of it. I have just completed an online Data Analytics certification through Career Foundry 
    and I'm anxious to get started in the field by developing a career as an Analyst. 
-- 🌱 I have proficient experience with Excel, Pivot Tables, Tableau, SQL, and Python.
+- 📊 I have proficient experience with Excel, Pivot Tables, Tableau, SQL, and Python.
 - 📫 You can reach me via email at peter.e.siemsen@gmail.com or by connecting on LinkedIn: www.linkedin.com/in/petersiemsen
 
 <!---
