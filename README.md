@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petersiemsen 
 - 🤓 I’m interested in DATA and lots of it!! I'm a certified Data Analyst and detail-driven problem solver. My competitive advantage includes stakeholder engagement and requirement analysis expertise gained from my customer success and implementation background.
-- 📊 I have proficient experience with Excel, Pivot Tables, Tableau, SQL, and Python and am highly effective at leveraging data to solve challends and make informed decisions. 
+- 📊 I have proficient experience with Excel, Pivot Tables, Tableau, SQL, and Python and am highly effective at leveraging data to solve challengs and make informed decisions. 
 - 📫 You can reach me via email at peter.e.siemsen@gmail.com or by connecting on LinkedIn: www.linkedin.com/in/petersiemsen
 
 <!---
